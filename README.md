@@ -1,2 +1,2 @@
 # StrukturDataPraktik
-Tugas Pertemuan 2
+Tugas Strukur Data
